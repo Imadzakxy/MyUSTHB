@@ -1,4 +1,20 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎓 MyUSTHB — Plateforme Universitaire Moderne
+
+**MyUSTHB** est un projet personnel ambitieux visant à **recréer entièrement le site de l’USTHB** avec un **design moderne, responsive et fluide**, tout en utilisant des technologies récentes du web et du backend.
+
+---
+
+## 🚀 Objectif du projet
+
+L’objectif principal est de proposer une **nouvelle interface universitaire** plus intuitive, plus rapide et plus esthétique, où les étudiants et le personnel peuvent :
+
+- Gérer les informations des étudiants (ajout, suppression, modification)
+- Consulter les notes, moyennes et résultats
+- Se connecter via un compte sécurisé (Spring Security)
+- Visualiser les données sous forme de graphiques interactifs
+- Accéder à un tableau de bord moderne et ergonomique
+
+---
 
 ## Getting Started
 
